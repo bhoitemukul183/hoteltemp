@@ -1,0 +1,24 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.height {
+  height: 400px;
+  width: 100%;
+}
+
+.parent {
+  position: relative;
+  background-image: linear-gradient(90deg, white, gray);
+}
+
+/* pallate - #31525B, #B3DEE5, #FFA101, #FAE6B1; */
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
